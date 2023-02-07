@@ -6,7 +6,7 @@ jobs:
     source:
       repository: https://github.com/Cedric01/BenchMarkHelloProject
       branchOrCommit: main
-      project: BenchMarkHelloProject/hello.csproj
+      project: hello.csproj
     readyStateText: Application started.
 
 scenarios:
